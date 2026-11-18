@@ -1,0 +1,20 @@
+# Private inputs and generated document artifacts
+*.pdf
+*.log
+*.json
+*.zip
+*.docx
+*.pptx
+*_pages/
+input/
+output/
+reports/
+.cache/
+.env
+.env.*
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.DS_Store
+Thumbs.db
